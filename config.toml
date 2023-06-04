@@ -1,0 +1,14 @@
+[ profile ]
+username = "Discordgen"
+AddBio   = false
+AddPFP   = false
+RandUser = false
+
+// The stuff below is not needed.
+[ email ]
+enabled = false
+apikey  = "HOTMAILBOX_API_KEY"
+
+[ phone ] 
+enabled = false
+apikey  = "5SIM_API_KEY"
